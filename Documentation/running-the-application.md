@@ -10,5 +10,5 @@
 - In the root directory, simply execute:
 
 ```
-./run.sh
+./run.sh -install
 ```
